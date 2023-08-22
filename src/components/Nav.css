@@ -1,8 +1,4 @@
-.navbar{
-    background-color: aliceblue;
-}
-
-.navbar .nav-links{
+/* .navbar .nav-links{
     display: flex;
     flex-direction: row;
     padding: 5px;
@@ -33,4 +29,4 @@ h2{
 h2:hover{
     color: rgb(236, 90, 61);
     cursor: pointer;
-}
+} */
