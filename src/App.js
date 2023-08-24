@@ -2,6 +2,7 @@ import React from 'react'
 import "./App.css"
 import Nav from "./components/Nav"
 import Form from './components/Form'
+import About from "./components/About"
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
 
          <Form heading= "Enter the text to analyze" />
       </div>
+      <About/>
      
     </div>
   )

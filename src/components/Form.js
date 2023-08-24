@@ -33,7 +33,7 @@ function Form(props){
     const handleClear = () => {
       let clearText = ""
       setText(clearText)
-      alert("You cleared the text")
+      alert("You deleted the text")
     }
 
     const handleOnChange = (event) => {
